@@ -34,5 +34,5 @@ python3 life.py --image 'cat.jpeg'  --from_image  --treeshold 150
 
 
 ## Copyrights:
-This life game code is based on [source solution](https://www.geeksforgeeks.org/conways-game-life-python-implementation/)
-Image source [cat.jpeg](https://www.pexels.com/photo/close-up-photography-of-white-and-black-cat-69932/)
+- This life game code is based on [source solution](https://www.geeksforgeeks.org/conways-game-life-python-implementation/)
+- Image source [cat.jpeg](https://www.pexels.com/photo/close-up-photography-of-white-and-black-cat-69932/)
