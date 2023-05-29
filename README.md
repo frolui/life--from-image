@@ -29,6 +29,6 @@ Example:
 ```
 python3 life.py --image 'cat.jpeg'  --from_image  --treeshold 150
 ```
-
-![Start pattern image](../cat_pattern.png "Image transformed to start pattern")
-![Life game gif](../cat_life.gif "Gif image of life game")
+![Start image](/images/cat.jpeg "Source cat image")
+![Start pattern image](/images/cat_pattern.png "Image transformed to start pattern")
+![Life game gif](/images/cat_life.gif "Gif image of life game")
