@@ -29,6 +29,6 @@ Example:
 ```
 python3 life.py --image 'cat.jpeg'  --from_image  --treeshold 150
 ```
-![Start image](/images/cat.jpeg|width=400px)
-![Start pattern image](/images/cat_pattern.png|width=400px)
-![Life game gif](/images/cat_life.gif|width=400px)
+<img src='/images/cat.jpeg' width='400'>
+<img src='/images/cat_pattern.png' width='400'>
+<img src='/images/cat_life.gif' width='400'>
